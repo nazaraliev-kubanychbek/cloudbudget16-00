@@ -1,0 +1,46 @@
+.technology {
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  row-gap: 50px;
+
+
+  &__title {
+    @include font(36px, 43px, 600);
+    text-align: center;
+    margin-top: -150px;
+  }
+
+  &__num {
+    @include font(100px, 120px, bold);
+    text-align: center;
+    color: rgba(16, 16, 16, 0.08);
+  }
+
+  &__box{
+    position: relative;
+  }
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 10px;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    &-title {
+      @include font(18px, 22px, bold);
+      text-align: center;
+      color: $primeblack;
+    }
+
+    &-text {
+      @include font(12px, 14px, normal);
+      text-align: center;
+      width: 195px;
+    }
+  }
+}

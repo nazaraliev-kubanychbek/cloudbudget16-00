@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c08ae9a5-e94c-4cf5-9787-30e7f1270157" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="21S5SkvtQyr9IhlMx33rCdtdyUX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/img/header" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\it Run\Группа кидс\16 00 Пн\Cloudbudget1600__\src\img\header" />
+      <recent name="D:\it Run\Группа кидс\16 00 Пн\Cloudbudget1600__\src\libs\owl-carousel" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\it Run\Группа кидс\16 00 Пн\Cloudbudget1600__\src\libs\owl-carousel" />
+      <recent name="D:\it Run\Группа кидс\16 00 Пн\Cloudbudget1600__\src\libs\font-awesome" />
+      <recent name="D:\it Run\Группа кидс\16 00 Пн\Cloudbudget1600__\src\img\footer" />
+      <recent name="D:\it Run\Группа кидс\16 00 Пн\Cloudbudget1600__\src\img\slider" />
+      <recent name="D:\it Run\Группа кидс\16 00 Пн\CloudBudget16 00\src\img\technology" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c08ae9a5-e94c-4cf5-9787-30e7f1270157" name="Default Changelist" comment="" />
+      <created>1637921650180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637921650180</updated>
+      <workItem from="1637921653033" duration="5929000" />
+      <workItem from="1638180857004" duration="5687000" />
+      <workItem from="1638353974757" duration="4637000" />
+      <workItem from="1638358682787" duration="139000" />
+      <workItem from="1638358852656" duration="824000" />
+      <workItem from="1638359728136" duration="258000" />
+      <workItem from="1638464321740" duration="56000" />
+      <workItem from="1638527195188" duration="5593000" />
+      <workItem from="1638613123216" duration="1316000" />
+      <workItem from="1638786575990" duration="3904000" />
+      <workItem from="1638958560934" duration="3519000" />
+      <workItem from="1639131217940" duration="5045000" />
+      <workItem from="1639390589816" duration="5970000" />
+      <workItem from="1639563298597" duration="6077000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

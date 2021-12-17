@@ -1,0 +1,57 @@
+.overview {
+
+  &__content {
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    row-gap: 30px;
+
+    &-title {
+      @include font(36px, 43px, 600);
+    }
+
+    &-text {
+      @include font(14px, 140%, normal);
+    }
+
+    &-link {
+      @include font(14px, 140%, normal);
+      color: $primered;
+      text-decoration: none;
+    }
+  }
+
+  &__video {
+    height: 500px;
+    display: flex;
+    align-items: center;
+    position: relative;
+
+    &-circle {
+      width: 66px;
+      height: 66px;
+      background-color: $primered;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      cursor: pointer;
+      transition: .5s;
+      &:hover{
+        background-color: red;
+      }
+      a{
+        color: #FFFFFF;
+        transition: .5s;
+        &:hover{
+          transform: scale(1.2);
+        }
+      }
+    }
+  }
+}

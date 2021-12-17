@@ -1,0 +1,40 @@
+.slider {
+  background-color: $primered;
+
+  &__title{
+    @include font(36px, 43px, 600);
+    color: #FFFFFF;
+  }
+  &__text{
+    @include font(14px, 140%, normal);
+    color: #FFFFFF;
+  }
+  &__content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 500px;
+    row-gap: 45px;
+    width: 445px;
+  }
+  &__links{
+    display: flex;
+    align-items: center;
+    column-gap: 25px;
+    a{
+      color: #FFFFFF;
+      font-size: 25px;
+      transition: .5s;
+      &:hover{
+        transform: scale(1.2);
+      }
+    }
+  }
+
+  &__img{
+    height: 500px;
+    display: flex;
+    align-items: center;
+  }
+
+}

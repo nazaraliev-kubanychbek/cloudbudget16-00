@@ -1,0 +1,48 @@
+.footer{
+  height: 435px;
+  background-color: $primewhite;
+  &__title{
+    @include font(18px, 22px, bold);
+    color: $primeblack;
+    margin-bottom: 30px;
+    margin-top: 85px;
+  }
+
+  &__icons{
+    display: flex;
+    column-gap: 10px;
+    a{
+      color: $primeblack;
+      transition: .5s;
+      &:hover{
+        color: $primered;
+        transform: scale(1.2);
+      }
+    }
+  }
+  &__text{
+    @include font(12px, 150%, normal);
+    color: $primeblack;
+    width: 200px;
+  }
+  &__link{
+    @include font(12px, 14px, normal);
+    color: $primeblack;
+    text-decoration: none;
+    display: block;
+  }
+  &__link2{
+    margin: 15px 0;
+  }
+  &__copy{
+    @include font(12px, 14px, normal);
+    margin-top: 140px;
+  }
+  ul{
+    li{
+      @include font(12px, 160%, normal);
+      text-transform: capitalize;
+    }
+  }
+
+}
